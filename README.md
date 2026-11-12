@@ -6,7 +6,7 @@ The AI-Powered Rural Youth Employment Platform aims to bridge the gap between ru
 
 **Problem Statement**:
 
-Rural youth often face difficulties accessing suitable job opportunities, industry-relevant skills, career guidance and vocational training programs.
+Rural youth cannot find work that fits , and small employers cannot find them.
 
 **Proposed Solution**:
 
