@@ -1,4 +1,5 @@
-**AI-Powered Rural Youth Employment Platform**
+ **GRAMAJOBS AI -An Agentic AI-Powered Rural Employment and skill development platform**
+
 
 **Project Overview**:
 
